@@ -1,5 +1,7 @@
 # WV Student Well-Being Prevention Dashboard
 
+![Dashboard Preview](dashboard-preview.png)
+
 This project showcases an interactive Tableau dashboard built to analyze mock student well-being survey data and present key trends in a clear and user-friendly format.
 
 ## Project Overview
